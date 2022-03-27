@@ -1,0 +1,89 @@
+
+<html>
+<head>
+<title> My profile</title>
+</head>
+<body style="background-color:gray">
+
+<body style="text-algin:center">
+<p style="text-align:center">
+<img src="D:\My Personal\My_files\Dinesh.jpg" width="100" height="100"/></p>
+<h1 style="text-align:center">  Muthayala Dinesh Kumar </h1>
+<p style="text-align:center">
+<marquee style="background-color:red"><big>Welcome to my webpage</big></marquee>
+<hr>
+<h2 style="text-align:center">  <u> About me</u> </h2>
+<p style="text-align:center"> 
+ Currently I'm studing M.sc(computer science) 2nd year in Sk Universty Ananthapur.<br>
+Contact:+91 -12345567<br>
+Email  :dinesh@gamil.com 
+<h2 style="text-align:center"> <u>Technical Skills</u></h2>
+<p style="text-align:center"> <u><big>Programming Languages:</big></u>
+<br>
+<br> <b>python-</b>A good knowledge in Python language.
+<br>
+<b>SQL-</b>A good understanding in SQL.</p>
+<br>
+<p style="text-align:center"> <b><u>Other Skills:</b></u>
+<br>
+Basic Knowledge in <b>HTML.</b>
+<br></p>
+<h2 style="text-align:center"> <u>Educational Qualifications</u></h2>
+<table align="center"   border="1"> 
+<tr>
+<th>Class</th>
+<th>Percentage Marks</th>
+</tr>
+<tr>
+<td style="text-align: center">10th</td>
+<td style="text-align: center">85%</td>
+</tr>
+<tr>
+<td style="text-align: center">Intermediate</td>
+<td style="text-align: center">77.9%</td>
+</tr>
+<tr>
+<td style="text-align: center">UG</td>
+<td style="text-align: center">80%</td>
+</tr>
+</table>
+<h2 style="text-align:center"> <u>Achievements</u></h2>
+<p style="text-align:center">  *Received a champion ship cup as a winner in bunch of games by staying as a captain, This was held on district level school games in 2015.
+<br>
+*Participated in <b>essay writitng competitions</b> and won 1st prize among 50 students in college level.
+<br>
+<h2 style="text-align:center"> <u>Strengths</u></h2>
+<p style="text-align:center"> * Flexible & Adaptable to changes & challenges
+<br>*  Highly Self Motivated
+<br>* Ability to work with Team
+
+<br>
+<h2 style="text-align:center"> <u>Weakness</u></h2>
+<p style="text-align:center"> * Being too sensitive
+<br>
+*Working too many hours
+<br>
+<h2 style="text-align:center"> <u>Hobbies</u></h2>
+<p style="text-align:center">  I Love learning new things through internet, playing games, trying to use new helpful Apps.
+</p>
+<h2 style="text-align:center"><b><u>My Family Photo</u></b></h2>
+<p style="text-align:center">
+<img src="E:\wallpapers\backgrounddefalut.jpg" width="300" height="200"/></p>
+<h2 style="text-align:center"><b><u>Friends Photos</u></b></h2>
+<p>
+<img src="C:\Users\DELL\Pictures\WhatsApp Image 2020-02-28 at 18.32.04 (1).jpeg" width="350" height="200"
+align="left">
+<img src="C:\Users\DELL\Pictures\WhatsApp Image 2020-02-28 at 18.54.31.jpeg" width="300" height="200" align="middle"/>
+<img src="E:\Dinesh\IMG_20190521_141224.jpg" width="300" height="200" align="right"/>
+<img src="E:\Dinesh\Dinesh\Dineshoney\IMG_20190808_053929.jpg" width="350" height="200" align="right"/>
+</p>
+<hr>
+<div style="text-align:center">
+&copy;2021 Dinesh Kumar</div>
+</body>
+</html>
+
+
+
+ 
+	
